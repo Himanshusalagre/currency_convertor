@@ -1,0 +1,11 @@
+Hello guys this is my java project if you
+like it then please give reply on Himanshu.salagre@somaiya.edu
+
+steps to run the project file:-
+1.click on the project google drive link
+2.download the file(make sure you download whole file
+3.open folder converter >>> dist>>> converter.jar 
+4.double click on converter.jar to run the project
+5.It shall only run if java jdk&sdk are installed in your pc
+
+THANKYOU!! 
